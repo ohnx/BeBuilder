@@ -1,0 +1,412 @@
+mkdir -p objects.x86-gcc2-release; \
+mkdepend  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -p .cpp:objects.x86-gcc2-release/%n.o -m -f "objects.x86-gcc2-release/SliderCodeGenerator.d" ./CodeGenerator/SliderCodeGenerator.cpp
+mkdir -p objects.x86-gcc2-release; \
+mkdepend  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -p .cpp:objects.x86-gcc2-release/%n.o -m -f "objects.x86-gcc2-release/SliderComponent.d" .make: objects.x86-gcc2-release/mkdir -p objects.x86-gcc2-release; \
+mkdepend  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -p .cpp:objects.x86-gcc2-release/%n.o -m -f "objects.x86-gmake: objects.x86-gcc2-release/BoxCodeGenerator.d: Timestamp out of rmkdir -p objects.x86-gcc2-release; \
+mkdepend  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -p .cpp:objecmake: objects.x86-gcc2-release/BoxComponent.d: Timestamp out of range; substituting 1969-12-31 18:59:5mkdir -p objects.x86-gcc2-release; \
+mkdepend  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Rmake: objects.x86-gcc2-release/MenuFieldCodeGenerator.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./Component/MenuFiemkdir -p objects.x86-gcc2-release; \
+mkdepend  -I../Kernel/  -I./  -I./CodeGeneratormake: objects.x86-gcc2-release/MenuFieldComponent.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./Component/MenuSeparatorComponent.cpp: Timestamp out ofmkdir -p objects.x86-gcc2-release; \
+mkdepend  -I..make: objects.x86-gcc2-release/MenuSeparatorComponent.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./Component/MenuItemComponent.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.9mkdir -p make: objects.x86-gcc2-release/MenuItemComponent.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./CodeGenerator/MenuSeparatorCodeGenerator.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/MenuSeparatorCodeGenerator.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./CodeGenerator/MenuItemCodeGenerator.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/MenuItemCodeGenerator.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./Component/MenuBarComponent.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/MenuBarComponent.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./CodeGenerator/MenuBarCodeGenerator.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/MenuBarCodeGenerator.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./CodeGenerator/MenuCodeGenerator.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/MenuCodeGenerator.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./Component/MenuComponent.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/MenuComponent.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./CodeGenerator/RadioButtonCodeGenerator.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/RadioButtonCodeGenerator.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./Component/RadioButtonComponent.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/RadioButtonComponent.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./CodeGenerator/CheckBoxCodeGenerator.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/CheckBoxCodeGenerator.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./Component/CheckBoxComponent.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/CheckBoxComponent.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./CodeGenerator/TextControlCodeGenerator.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/TextControlCodeGenerator.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./Component/TextControlComponent.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/TextControlComponent.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./CodeGenerator/ButtonCodeGenerator.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/ButtonCodeGenerator.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./CodeGenerator/ProjectCodeGenerator.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/ProjectCodeGenerator.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./CodeGenerator/ViewCodeGenerator.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/ViewCodeGenerator.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./CodeGenerator/WindowCodeGenerator.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/WindowCodeGenerator.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./Component/ProjectComponent.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/ProjectComponent.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./Component/ButtonComponent.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/ButtonComponent.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./Component/ViewComponent.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/ViewComponent.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./Component/WindowComponent.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/WindowComponent.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./PropertyEditor/PropertyEditorStandard.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/PropertyEditorStandard.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./PropertyEditor/PropertyEditorStandardView.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/PropertyEditorStandardView.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./PropertyEditor/PropertyEditorMultiChoiceView.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/PropertyEditorMultiChoiceView.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./PropertyEditor/PropertyEditorMultiChoice.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/PropertyEditorMultiChoice.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./PropertyEditor/PropertyEditorChoiceView.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/PropertyEditorChoiceView.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./PropertyEditor/PropertyEditorChoice.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/PropertyEditorChoice.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./PropertyEditor/MenuPropertyEditorChoice.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/MenuPropertyEditorChoice.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./PropertyEditor/PropertyEditorWindow.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/PropertyEditorWindow.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./PropertyEditor/PropertyEditorView.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/PropertyEditorView.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ViewOption.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/ViewOption.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: WindowOption.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/WindowOption.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: EditorOption.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/EditorOption.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: BeBuilderOption.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/BeBuilderOption.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ToolBarView.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/ToolBarView.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ToolBar.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/ToolBar.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: CodeLine.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/CodeLine.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: CodeFile.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/CodeFile.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: Parser.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/Parser.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ComponentItem.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/ComponentItem.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ToolWindow.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/ToolWindow.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ToolView.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/ToolView.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: BuilderView.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/BuilderView.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ../Kernel/OpenDir.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/OpenDir.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ../Kernel/Object.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/Object.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ../Kernel/GeneralException.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/GeneralException.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ../Kernel/Global.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/Global.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: BuilderMenu.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/BuilderMenu.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: BuilderWindow.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/BuilderWindow.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ../Kernel/StringList.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/StringList.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ../Kernel/JerFiles.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/JerFiles.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ../Kernel/GeneralOutlineList.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/GeneralOutlineList.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ../Kernel/BOption.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/BOption.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ../Kernel/BGeneralWindowOption.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/BGeneralWindowOption.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ../Kernel/BGeneralWindow.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/BGeneralWindow.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ../Kernel/FileRW.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/FileRW.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ../Kernel/FileWriter.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/FileWriter.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ../Kernel/FileReader.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/FileReader.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: PropertyList.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/PropertyList.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: Property.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/Property.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ComponentList.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/ComponentList.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ComponentKindaView.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/ComponentKindaView.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: Component.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/Component.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: CodeGenerator.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/CodeGenerator.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: AddOnManager.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/AddOnManager.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: BeBuilder.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/BeBuilder.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/SliderCodeGenerator.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: Warning: File 'objects.x86-gcc2-release/SliderCodeGenerator.d' has modification time 1.6e+10 s in the future
+make: objects.x86-gcc2-release/SliderComponent.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/BoxCodeGenerator.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/BoxComponent.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/MenuFieldCodeGenerator.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/MenuFieldComponent.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/MenuSeparatorComponent.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/MenuItemComponent.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/MenuSeparatorCodeGenerator.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/MenuItemCodeGenerator.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/MenuBarComponent.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/MenuBarCodeGenerator.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/MenuCodeGenerator.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/MenuComponent.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/RadioButtonCodeGenerator.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/RadioButtonComponent.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/CheckBoxCodeGenerator.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/CheckBoxComponent.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/TextControlCodeGenerator.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/TextControlComponent.d: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: g++ -c BeBuilder.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/BeBuilder.o"
+g++ -c AddOnManager.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/AddOnManager.o"
+g++ -c CodeGenerator.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/CodeGenerator.o"
+g++ -c Component.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/Component.o"
+g++ -c ComponentKindaView.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/ComponentKindaView.o"
+g++ -c ComponentList.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/ComponentList.o"
+g++ -c Property.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/Property.o"
+g++ -c PropertyList.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/PropertyList.o"
+g++ -c ../Kernel/FileReader.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/FileReader.o"
+g++ -c ../Kernel/FileWriter.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/FileWriter.o"
+g++ -c ../Kernel/FileRW.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/FileRW.o"
+g++ -c ../Kernel/BGeneralWindow.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/BGeneralWindow.o"
+g++ -c ../Kernel/BGeneralWindowOption.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/BGeneralWindowOption.o"
+g++ -c ../Kernel/BOption.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/BOption.o"
+g++ -c ../Kernel/GeneralOutlineList.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/GeneralOutlineList.o"
+g++ -c ../Kernel/JerFiles.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/JerFiles.o"
+g++ -c ../Kernel/StringList.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/StringList.o"
+g++ -c BuilderWindow.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/BuilderWindow.o"
+g++ -c BuilderMenu.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/BuilderMenu.o"
+g++ -c ../Kernel/Global.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/Global.o"
+g++ -c ../Kernel/GeneralException.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/GeneralException.o"
+g++ -c ../Kernel/Object.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/Object.o"
+g++ -c ../Kernel/OpenDir.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/OpenDir.o"
+g++ -c BuilderView.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/BuilderView.o"
+g++ -c ToolView.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/ToolView.o"
+g++ -c ToolWindow.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/ToolWindow.o"
+g++ -c ComponentItem.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/ComponentItem.o"
+g++ -c Parser.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/Parser.o"
+g++ -c CodeFile.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/CodeFile.o"
+g++ -c CodeLine.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/CodeLine.o"
+g++ -c ToolBar.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/ToolBar.o"
+g++ -c ToolBarView.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/ToolBarView.o"
+g++ -c BeBuilderOption.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/BeBuilderOption.o"
+g++ -c EditorOption.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/EditorOption.o"
+g++ -c WindowOption.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/WindowOption.o"
+g++ -c ViewOption.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/ViewOption.o"
+g++ -c ./PropertyEditor/PropertyEditorView.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/PropertyEditorView.o"
+g++ -c ./PropertyEditor/PropertyEditorWindow.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/PropertyEditorWindow.o"
+g++ -c ./PropertyEditor/MenuPropertyEditorChoice.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/MenuPropertyEditorChoice.o"
+g++ -c ./PropertyEditor/PropertyEditorChoice.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/PropertyEditorChoice.o"
+g++ -c ./PropertyEditor/PropertyEditorChoiceView.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/PropertyEditorChoiceView.o"
+g++ -c ./PropertyEditor/PropertyEditorMultiChoice.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/PropertyEditorMultiChoice.o"
+g++ -c ./PropertyEditor/PropertyEditorMultiChoiceView.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/PropertyEditorMultiChoiceView.o"
+g++ -c ./PropertyEditor/PropertyEditorStandardView.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/PropertyEditorStandardView.o"
+g++ -c ./PropertyEditor/PropertyEditorStandard.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/PropertyEditorStandard.o"
+g++ -c ./Component/WindowComponent.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/WindowComponent.o"
+g++ -c ./Component/ViewComponent.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/ViewComponent.o"
+g++ -c ./Component/ButtonComponent.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/ButtonComponent.o"
+g++ -c ./Component/ProjectComponent.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/ProjectComponent.o"
+g++ -c ./CodeGenerator/WindowCodeGenerator.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/WindowCodeGenerator.o"
+g++ -c ./CodeGenerator/ViewCodeGenerator.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/ViewCodeGenerator.o"
+g++ -c ./CodeGenerator/ProjectCodeGenerator.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/ProjectCodeGenerator.o"
+g++ -c ./CodeGenerator/ButtonCodeGenerator.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/ButtonCodeGenerator.o"
+g++ -c ./Component/TextControlComponent.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/TextControlComponent.o"
+g++ -c ./CodeGenerator/TextControlCodeGenerator.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/TextControlCodeGenerator.o"
+g++ -c ./Component/CheckBoxComponent.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/CheckBoxComponent.o"
+g++ -c ./CodeGenerator/CheckBoxCodeGenerator.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/CheckBoxCodeGenerator.o"
+g++ -c ./Component/RadioButtonComponent.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/RadioButtonComponent.o"
+g++ -c ./CodeGenerator/RadioButtonCodeGenerator.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/RadioButtonCodeGenerator.o"
+g++ -c ./Component/MenuComponent.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/MenuComponent.o"
+g++ -c ./CodeGenerator/MenuCodeGenerator.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/MenuCodeGenerator.o"
+g++ -c ./CodeGenerator/MenuBarCodeGenerator.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/MenuBarCodeGenerator.o"
+g++ -c ./Component/MenuBarComponent.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/MenuBarComponent.o"
+g++ -c ./CodeGenerator/MenuItemCodeGenerator.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/MenuItemCodeGenerator.o"
+g++ -c ./CodeGenerator/MenuSeparatorCodeGenerator.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/MenuSeparatorCodeGenerator.o"
+g++ -c ./Component/MenuItemComponent.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/MenuItemComponent.o"
+g++ -c ./Component/MenuSeparatorComponent.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/MenuSeparatorComponent.o"
+g++ -c ./Component/MenuFieldComponent.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/MenuFieldComponent.o"
+g++ -c ./CodeGenerator/MenuFieldCodeGenerator.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/MenuFieldCodeGenerator.o"
+g++ -c ./Component/BoxComponent.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/BoxComponent.o"
+g++ -c ./CodeGenerator/BoxCodeGenerator.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/BoxCodeGenerator.o"
+g++ -c ./Component/SliderComponent.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/SliderComponent.o"
+g++ -c ./CodeGenerator/SliderCodeGenerator.cpp  -I../Kernel/  -I./  -I./CodeGenerator/  -I./Component/  -I./PropertyEditor/  -I./Resources/ -I-   -O0  -Wall -Wno-multichar -Wno-ctor-dtor-privacy   -o "objects.x86-gcc2-release/SliderCodeGenerator.o"
+gcc -o "objects.x86-gcc2-release/BeBuilder" 	objects.x86-gcc2-release/BeBuilder.o objects.x86-gcc2-release/AddOnManager.o objects.x86-gcc2-release/CodeGenerator.o objects.x86-gcc2-release/Component.o objects.x86-gcc2-release/ComponentKindaView.o objects.x86-gcc2-release/ComponentList.o objects.x86-gcc2-release/Property.o objects.x86-gcc2-release/PropertyList.o objects.x86-gcc2-release/FileReader.o objects.x86-gcc2-release/FileWriter.o objects.x86-gcc2-release/FileRW.o objects.x86-gcc2-release/BGeneralWindow.o objects.x86-gcc2-release/BGeneralWindowOption.o objects.x86-gcc2-release/BOption.o objects.x86-gcc2-release/GeneralOutlineList.o objects.x86-gcc2-release/JerFiles.o objects.x86-gcc2-release/StringList.o objects.x86-gcc2-release/BuilderWindow.o objects.x86-gcc2-release/BuilderMenu.o objects.x86-gcc2-release/Global.o objects.x86-gcc2-release/GeneralException.o objects.x86-gcc2-release/Object.o objects.x86-gcc2-release/OpenDir.o objects.x86-gcc2-release/BuilderView.o objects.x86-gcc2-release/ToolView.o objects.x86-gcc2-release/ToolWindow.o objects.x86-gcc2-release/ComponentItem.o objects.x86-gcc2-release/Parser.o objects.x86-gcc2-release/CodeFile.o objects.x86-gcc2-release/CodeLine.o objects.x86-gcc2-release/ToolBar.o objects.x86-gcc2-release/ToolBarView.o objects.x86-gcc2-release/BeBuilderOption.o objects.x86-gcc2-release/EditorOption.o objects.x86-gcc2-release/WindowOption.o objects.x86-gcc2-release/ViewOption.o objects.x86-gcc2-release/PropertyEditorView.o objects.x86-gcc2-release/PropertyEditorWindow.o objects.x86-gcc2-release/MenuPropertyEditorChoice.o objects.x86-gcc2-release/PropertyEditorChoice.o objects.x86-gcc2-release/PropertyEditorChoiceView.o objects.x86-gcc2-release/PropertyEditorMultiChoice.o objects.x86-gcc2-release/PropertyEditorMultiChoiceView.o objects.x86-gcc2-release/PropertyEditorStandardView.o objects.x86-gcc2-release/PropertyEditorStandard.o objects.x86-gcc2-release/WindowComponent.o objects.x86-gcc2-release/ViewComponent.o objects.x86-gcc2-release/ButtonComponent.o objects.x86-gcc2-release/ProjectComponent.o objects.x86-gcc2-release/WindowCodeGenerator.o objects.x86-gcc2-release/ViewCodeGenerator.o objects.x86-gcc2-release/ProjectCodeGenerator.o objects.x86-gcc2-release/ButtonCodeGenerator.o objects.x86-gcc2-release/TextControlComponent.o objects.x86-gcc2-release/TextControlCodeGenerator.o objects.x86-gcc2-release/CheckBoxComponent.o objects.x86-gcc2-release/CheckBoxCodeGenerator.o objects.x86-gcc2-release/RadioButtonComponent.o objects.x86-gcc2-release/RadioButtonCodeGenerator.o objects.x86-gcc2-release/MenuComponent.o objects.x86-gcc2-release/MenuCodeGenerator.o objects.x86-gcc2-release/MenuBarCodeGenerator.o objects.x86-gcc2-release/MenuBarComponent.o objects.x86-gcc2-release/MenuItemCodeGenerator.o objects.x86-gcc2-release/MenuSeparatorCodeGenerator.o objects.x86-gcc2-release/MenuItemComponent.o objects.x86-gcc2-release/MenuSeparatorComponent.o objects.x86-gcc2-release/MenuFieldComponent.o objects.x86-gcc2-release/MenuFieldCodeGenerator.o objects.x86-gcc2-release/BoxComponent.o objects.x86-gcc2-release/BoxCodeGenerator.o objects.x86-gcc2-release/SliderComponent.o objects.x86-gcc2-release/SliderCodeGenerator.o  -Xlinker -soname=_APP_  -L../Kernel/  -L./  -L./CodeGenerator/  -L./Component/  -L./PropertyEditor/  -L./Resources/    -lbe  -ltranslation  -lstdc++.r4  -ltracker  -lroot 
+xres -o objects.x86-gcc2-release/BeBuilder bebuilder.rsrc ./Resources/ViewResource.rsrc ./Resources/WindowResource.rsrc 
+/boot/system/develop/etc/makefile-engine:246: recipe for target 'objects.x86-gcc2-release/BeBuilder' failed
+4: warning: `float' used for argument 1 of `abs(int)'
+/boot/home/HaBuilder/V0.5.2BeBuilder/ComponentKindaView.cpp: In method `bool TComponentKindaView::ResizeAndMove(BRect)':
+/boot/home/HaBuilder/V0.5.2BeBuilder/ComponentKindaView.cpp:303: warning: unused variable `class BRect AFrame'
+make: objects.x86-gcc2-release/ComponentKindaView.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/ComponentList.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/Property.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/PropertyList.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ../Kernel/FileReader.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/FileReader.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ../Kernel/FileWriter.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/FileWriter.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ../Kernel/FileRW.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/FileRW.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ../Kernel/BGeneralWindow.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/BGeneralWindow.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ../Kernel/BGeneralWindowOption.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/BGeneralWindowOption.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ../Kernel/BOption.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/BOption.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ../Kernel/GeneralOutlineList.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+/boot/home/HaBuilder/Kernel/GeneralOutlineList.cpp: In method `void TGeneralOutlineList::KeyDown(const char *, long int)':
+/boot/home/HaBuilder/Kernel/GeneralOutlineList.cpp:31: warning: suggest parentheses around assignment used as truth value
+make: objects.x86-gcc2-release/GeneralOutlineList.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ../Kernel/JerFiles.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+/boot/home/HaBuilder/Kernel/JerFiles.cpp: In method `TJerFile::~TJerFile()':
+/boot/home/HaBuilder/Kernel/JerFiles.cpp:125: warning: `void *' is not a pointer-to-object type
+make: objects.x86-gcc2-release/JerFiles.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ../Kernel/StringList.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+/boot/home/HaBuilder/Kernel/StringList.cpp: In method `TStringList::~TStringList()':
+/boot/home/HaBuilder/Kernel/StringList.cpp:14: warning: `void *' is not a pointer-to-object type
+/boot/home/HaBuilder/Kernel/StringList.cpp: In method `void TStringList::RemoveItem(basic_string<char,string_char_traits<char>,__malloc_alloc_template<0> >)':
+/boot/home/HaBuilder/Kernel/StringList.cpp:67: warning: `void *' is not a pointer-to-object type
+make: objects.x86-gcc2-release/StringList.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/BuilderWindow.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/BuilderMenu.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ../Kernel/Global.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+/boot/home/HaBuilder/Kernel/Global.cpp: In function `class string StrCopy(basic_string<char,string_char_traits<char>,__malloc_alloc_template<0> >, int, int)':
+/boot/home/HaBuilder/Kernel/Global.cpp:166: warning: comparison between signed and unsigned
+make: objects.x86-gcc2-release/Global.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ../Kernel/GeneralException.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/GeneralException.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ../Kernel/Object.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/Object.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ../Kernel/OpenDir.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/OpenDir.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/BuilderView.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/ToolView.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/ToolWindow.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/ComponentItem.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+/boot/home/HaBuilder/V0.5.2BeBuilder/Parser.cpp: In method `bool TParser::ReplaceString(long long int, basic_string<char,string_char_traits<char>,__malloc_alloc_template<0> >, basic_string<char,string_char_traits<char>,__malloc_alloc_template<0> >, BFile *)':
+/boot/home/HaBuilder/V0.5.2BeBuilder/Parser.cpp:156: warning: comparison between signed and unsigned
+/boot/home/HaBuilder/V0.5.2BeBuilder/Parser.cpp: In method `bool TParser::InsertString(long long int, basic_string<char,string_char_traits<char>,__malloc_alloc_template<0> >, BFile *)':
+/boot/home/HaBuilder/V0.5.2BeBuilder/Parser.cpp:177: warning: comparison between signed and unsigned
+/boot/home/HaBuilder/V0.5.2BeBuilder/Parser.cpp: In method `off_t TParser::FindInFile(long long int, basic_string<char,string_char_traits<char>,__malloc_alloc_template<0> >, BFile *)':
+/boot/home/HaBuilder/V0.5.2BeBuilder/Parser.cpp:218: warning: comparison between signed and unsigned
+make: objects.x86-gcc2-release/Parser.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/CodeFile.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/CodeLine.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ToolBar.h: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ToolBarView.h: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+/boot/home/HaBuilder/V0.5.2BeBuilder/ToolBar.cpp: In method `TToolBar::~TToolBar()':
+/boot/home/HaBuilder/V0.5.2BeBuilder/ToolBar.cpp:24: warning: suggest parentheses around assignment used as truth value
+/boot/home/HaBuilder/V0.5.2BeBuilder/ToolBar.cpp:27: warning: `void *' is not a pointer-to-object type
+make: objects.x86-gcc2-release/ToolBar.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/ToolBarView.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/BeBuilderOption.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/EditorOption.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/WindowOption.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/ViewOption.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./PropertyEditor/PropertyEditorView.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/PropertyEditorView.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./PropertyEditor/PropertyEditorWindow.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/PropertyEditorWindow.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./PropertyEditor/MenuPropertyEditorChoice.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: PropertyEditor/MenuPropertyEditorChoice.h: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/MenuPropertyEditorChoice.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./PropertyEditor/PropertyEditorChoice.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: PropertyEditor/PropertyEditorChoiceView.h: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/PropertyEditorChoice.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./PropertyEditor/PropertyEditorChoiceView.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/PropertyEditorChoiceView.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./PropertyEditor/PropertyEditorMultiChoice.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: PropertyEditor/PropertyEditorMultiChoiceView.h: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/PropertyEditorMultiChoice.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./PropertyEditor/PropertyEditorMultiChoiceView.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+/boot/home/HaBuilder/V0.5.2BeBuilder/PropertyEditor/PropertyEditorMultiChoiceView.cpp: In method `void TPropertyEditorMultiChoiceView::SetProperty(TProperty *, long int, BHandler *)':
+/boot/home/HaBuilder/V0.5.2BeBuilder/PropertyEditor/PropertyEditorMultiChoiceView.cpp:120: warning: comparison between signed and unsigned
+make: objects.x86-gcc2-release/PropertyEditorMultiChoiceView.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./PropertyEditor/PropertyEditorStandardView.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/PropertyEditorStandardView.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./PropertyEditor/PropertyEditorStandard.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/PropertyEditorStandard.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./Component/WindowComponent.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/WindowComponent.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./Component/ViewComponent.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/ViewComponent.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./Component/ButtonComponent.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/ButtonComponent.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./Component/ProjectComponent.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/ProjectComponent.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./CodeGenerator/WindowCodeGenerator.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/WindowCodeGenerator.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./CodeGenerator/ViewCodeGenerator.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/ViewCodeGenerator.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./CodeGenerator/ProjectCodeGenerator.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/ProjectCodeGenerator.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./CodeGenerator/ButtonCodeGenerator.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/ButtonCodeGenerator.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./Component/TextControlComponent.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/TextControlComponent.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./CodeGenerator/TextControlCodeGenerator.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/TextControlCodeGenerator.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./Component/CheckBoxComponent.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/CheckBoxComponent.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./CodeGenerator/CheckBoxCodeGenerator.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/CheckBoxCodeGenerator.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./Component/RadioButtonComponent.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/RadioButtonComponent.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./CodeGenerator/RadioButtonCodeGenerator.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/RadioButtonCodeGenerator.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./Component/MenuComponent.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: CodeGenerator/MenuCodeGenerator.h: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: Component/MenuComponent.h: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+/boot/home/HaBuilder/V0.5.2BeBuilder/Component/MenuComponent.cpp: In method `bool TMenuComponent::AddChild(TComponent *)':
+/boot/home/HaBuilder/V0.5.2BeBuilder/Component/MenuComponent.cpp:100: warning: control reaches end of non-void function `TMenuComponent::AddChild(TComponent *)'
+make: objects.x86-gcc2-release/MenuComponent.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./CodeGenerator/MenuCodeGenerator.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/MenuCodeGenerator.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./CodeGenerator/MenuBarCodeGenerator.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: Component/MenuBarComponent.h: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: CodeGenerator/MenuBarCodeGenerator.h: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/MenuBarCodeGenerator.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./Component/MenuBarComponent.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+/boot/home/HaBuilder/V0.5.2BeBuilder/Component/MenuBarComponent.cpp: In method `bool TMenuBarComponent::AddChild(TComponent *)':
+/boot/home/HaBuilder/V0.5.2BeBuilder/Component/MenuBarComponent.cpp:98: warning: control reaches end of non-void function `TMenuBarComponent::AddChild(TComponent *)'
+make: objects.x86-gcc2-release/MenuBarComponent.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./CodeGenerator/MenuItemCodeGenerator.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: Component/MenuItemComponent.h: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: CodeGenerator/MenuItemCodeGenerator.h: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/MenuItemCodeGenerator.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./CodeGenerator/MenuSeparatorCodeGenerator.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: Component/MenuSeparatorComponent.h: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: CodeGenerator/MenuSeparatorCodeGenerator.h: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/MenuSeparatorCodeGenerator.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./Component/MenuItemComponent.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/MenuItemComponent.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./Component/MenuSeparatorComponent.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/MenuSeparatorComponent.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./Component/MenuFieldComponent.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: Component/MenuFieldComponent.h: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: CodeGenerator/MenuFieldCodeGenerator.h: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+/boot/home/HaBuilder/V0.5.2BeBuilder/Component/MenuFieldComponent.cpp: In method `void TMenuFieldComponent::MouseDown(BPoint)':
+/boot/home/HaBuilder/V0.5.2BeBuilder/Component/MenuFieldComponent.cpp:108: warning: unsigned int format, uint32 arg (arg 2)
+make: objects.x86-gcc2-release/MenuFieldComponent.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./CodeGenerator/MenuFieldCodeGenerator.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/MenuFieldCodeGenerator.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./Component/BoxComponent.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: Component/BoxComponent.h: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: CodeGenerator/BoxCodeGenerator.h: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/BoxComponent.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./CodeGenerator/BoxCodeGenerator.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/BoxCodeGenerator.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./Component/SliderComponent.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: Component/SliderComponent.h: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: CodeGenerator/SliderCodeGenerator.h: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/SliderComponent.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: ./CodeGenerator/SliderCodeGenerator.cpp: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: objects.x86-gcc2-release/SliderCodeGenerator.o: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: bebuilder.rsrc: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: Resources/ViewResource.rsrc: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+make: Resources/WindowResource.rsrc: Timestamp out of range; substituting 1969-12-31 18:59:59.999999999
+Error: Failed to read resources from input file "./Resources/ViewResource.rsrc": I/O error
+make: *** [objects.x86-gcc2-release/BeBuilder] Error 1
